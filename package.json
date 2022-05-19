@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Epam test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efraimpc89/testcafe_pet_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efraimpc89/testcafe_pet_project/issues"
+  },
+  "homepage": "https://github.com/efraimpc89/testcafe_pet_project#readme",
+  "dependencies": {
+    "testcafe": "^1.18.6"
+  }
+}

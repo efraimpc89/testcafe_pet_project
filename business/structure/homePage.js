@@ -1,4 +1,4 @@
-import { Selectors } from "testcafe";
+import { Selector } from "testcafe";
 
 class homePage {
     constructor(){
